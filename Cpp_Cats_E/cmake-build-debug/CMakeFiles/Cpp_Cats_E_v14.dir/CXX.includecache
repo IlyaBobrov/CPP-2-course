@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Program Files (x86)/Cpp_Cats_E_v14/Num.cpp
+iostream
+-
+Num.h
+D:/Program Files (x86)/Cpp_Cats_E_v14/Num.h
+
+D:/Program Files (x86)/Cpp_Cats_E_v14/Num.h
+

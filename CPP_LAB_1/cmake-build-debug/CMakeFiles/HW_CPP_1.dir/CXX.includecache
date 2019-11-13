@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Program Files (x86)/HW_CPP_1/Base.h
+
+D:/Program Files (x86)/HW_CPP_1/Matrix.cpp
+cmath
+-
+Matrix.h
+D:/Program Files (x86)/HW_CPP_1/Matrix.h
+Vector.h
+D:/Program Files (x86)/HW_CPP_1/Vector.h
+
+D:/Program Files (x86)/HW_CPP_1/Matrix.h
+Base.h
+D:/Program Files (x86)/HW_CPP_1/Base.h
+tuple
+-
+
+D:/Program Files (x86)/HW_CPP_1/Vector.h
+Base.h
+D:/Program Files (x86)/HW_CPP_1/Base.h
+tuple
+-
+
